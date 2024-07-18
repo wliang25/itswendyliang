@@ -1,0 +1,24 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding: 10px;
+  background-color: #c4d2eb;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  border: 1px solid purple;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 1px;
+}
+
+.tab:hover{
+  background-color: lightsteelblue;
+  cursor: pointer;
+}

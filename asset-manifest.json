@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/itswendyliang/static/css/main.fcae0146.css",
-    "main.js": "/itswendyliang/static/js/main.4fe7fc50.js",
+    "main.css": "/itswendyliang/static/css/main.1250625e.css",
+    "main.js": "/itswendyliang/static/js/main.f6caa546.js",
     "static/js/787.98d8d58b.chunk.js": "/itswendyliang/static/js/787.98d8d58b.chunk.js",
+    "static/media/profile.jpg": "/itswendyliang/static/media/profile.8378c7793ab7713fc105.jpg",
     "index.html": "/itswendyliang/index.html",
-    "main.fcae0146.css.map": "/itswendyliang/static/css/main.fcae0146.css.map",
-    "main.4fe7fc50.js.map": "/itswendyliang/static/js/main.4fe7fc50.js.map",
+    "main.1250625e.css.map": "/itswendyliang/static/css/main.1250625e.css.map",
+    "main.f6caa546.js.map": "/itswendyliang/static/js/main.f6caa546.js.map",
     "787.98d8d58b.chunk.js.map": "/itswendyliang/static/js/787.98d8d58b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcae0146.css",
-    "static/js/main.4fe7fc50.js"
+    "static/css/main.1250625e.css",
+    "static/js/main.f6caa546.js"
   ]
 }

@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/itswendyliang/static/css/main.1250625e.css",
-    "main.js": "/itswendyliang/static/js/main.f6caa546.js",
+    "main.css": "/itswendyliang/static/css/main.edb54ca8.css",
+    "main.js": "/itswendyliang/static/js/main.65a6a0a5.js",
     "static/js/787.98d8d58b.chunk.js": "/itswendyliang/static/js/787.98d8d58b.chunk.js",
+    "static/media/japan2024.png": "/itswendyliang/static/media/japan2024.6ddf3727d22b08696600.png",
     "static/media/profile.jpg": "/itswendyliang/static/media/profile.8378c7793ab7713fc105.jpg",
     "index.html": "/itswendyliang/index.html",
-    "main.1250625e.css.map": "/itswendyliang/static/css/main.1250625e.css.map",
-    "main.f6caa546.js.map": "/itswendyliang/static/js/main.f6caa546.js.map",
+    "main.edb54ca8.css.map": "/itswendyliang/static/css/main.edb54ca8.css.map",
+    "main.65a6a0a5.js.map": "/itswendyliang/static/js/main.65a6a0a5.js.map",
     "787.98d8d58b.chunk.js.map": "/itswendyliang/static/js/787.98d8d58b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1250625e.css",
-    "static/js/main.f6caa546.js"
+    "static/css/main.edb54ca8.css",
+    "static/js/main.65a6a0a5.js"
   ]
 }

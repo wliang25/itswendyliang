@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope, faAddressCard } from '@fortawesome/free-solid-svg-icons';
+import { faLinkedinIn, faGithub } from '@fortawesome/free-brands-svg-icons';
 import './App.css';
 import WendyLiang from './WendyLiang.js';
 import Projects from './Projects.js';
@@ -19,7 +22,15 @@ const App = () => {
         {activeTab === 'projects' && <Projects />}       
         {activeTab === 'resume' && <Resume />}
       </div>      
-      <footer className='footer'><p>&copy; 2024 Wendy Liang. All Rights Reserved.</p></footer>
+      <footer className='footer'>
+        <ul>
+        <li><a href="mailto:wendyl.y.123@gmail.com"><FontAwesomeIcon icon={faEnvelope} /></a></li>
+          <li><a href="https://www.linkedin.com/in/wliang25/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
+          <li><a href="https://github.com/wliang25"><FontAwesomeIcon icon={faGithub} /></a></li>
+          <li><a href="./Wendy Liang Resume.pdf"><FontAwesomeIcon icon={faAddressCard} /></a></li>
+          <li>&copy; 2024 Wendy Liang</li>
+        </ul>
+      </footer>
     </div>
   );
 }

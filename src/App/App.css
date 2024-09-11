@@ -33,14 +33,6 @@ body {
   margin-bottom: 0;
 }
 
-.tabcontent {
-  /* border: 1px solid #34006f;
-  border-radius: 5px;
-  box-shadow: 2px 2px;
-  padding: 5px;
-  margin: 5px; */
-}
-
 .pftext {
   display: flex;
   flex-direction: column;
@@ -56,19 +48,28 @@ img {
   font-style: italic;
 }
 
-.card {
-  border: 1px solid #34006f;
-  border-radius: 5px;
-  box-shadow: 2px 2px;
-  padding: 5px 10px;
-  margin: 5px;
-}
-
-.footer {
+footer {
   text-align: center;
   padding: 10px 0;
   margin-top: auto;
   width: 100%;
+  clear: both;
+}
+
+footer ul {
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
 }
 
 .wendyliang {
@@ -90,9 +91,4 @@ img {
 
 .projects {
   margin: 10px;
-}
-
-.projects a {
-  text-decoration: none;
-  color: none;
 }

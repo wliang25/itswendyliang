@@ -30,16 +30,16 @@ const Resume = () => {
     <h2>Software Engineer</h2>
     <p><span className='date'>CBRE - Sept. 2019 to July 2023</span><br />
     - Developed reusable React and Web components for internal
-    design library to ensure consistent UI/UX across applications <br />
+    design library to ensure consistent UI/UX across 3 different applications <br />
     - Played a key role in the development of SiteIQ Survey Creator,
     building frontend microservices with a separate design
     library, integrated third-party services like Google Analytics
-    and Flatfile to streamline market data presentation <br />
+    and Flatfile to streamline market data presentation for brokers<br />
     - Collaborated with product and design teams to continuously
     implement application improvements and new features <br />
     - Led migration of legacy Angular code to React for internal
     website to adhere to new company guidelines <br />
-    - Led and organized internship program for summer 2020
+    - Led and organized summer internship programs across 8+
     software engineer & design interns  
     </p>
     <h2>Software Engineer Intern</h2>

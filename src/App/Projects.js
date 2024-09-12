@@ -12,11 +12,12 @@ const Projects = () => {
     offering a detailed and immersive visualization of our travel experience.<br />
     <img src={jpn} alt='profile' />
   </>
+  const tags = ['leaftlet.js', 'JS', 'HTML', 'CSS']
 
   return (
     <div className='projects'>
       <h1>Projects</h1>
-      <Card title={jpTitle} descrip={jpDescrip} />
+      <Card title={jpTitle} descrip={jpDescrip} tags={tags} />
     </div>
   );
 }
